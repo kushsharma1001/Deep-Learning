@@ -1,5 +1,5 @@
 # Random Number Generation in Python
-[GitHub - kushsharma1001/Deep-Learning: A dive into the era of Machines](https://github.com/kushsharma1001/Deep-Learning)
+[Deep-Learning/RandomNumbers.md at master · kushsharma1001/Deep-Learning · GitHub](https://github.com/kushsharma1001/Deep-Learning/blob/master/RandomNumbers.md)
 --- 
 ```
 import numpy as np
