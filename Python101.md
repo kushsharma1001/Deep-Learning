@@ -1,5 +1,5 @@
 # PYTHON 101
-[GitHub - kushsharma1001/Deep-Learning: A dive into the era of Machines](https://github.com/kushsharma1001/Deep-Learning)
+[Deep-Learning/Python101.md at master · kushsharma1001/Deep-Learning · GitHub](https://github.com/kushsharma1001/Deep-Learning/blob/master/Python101.md)
 
 --- 
 
