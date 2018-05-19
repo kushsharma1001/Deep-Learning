@@ -1,5 +1,6 @@
 # CONVOLUTION NEURAL NETWORKS
 
+#### Neural Network is an interconnected group of nodes, similar to and inspired by biological neural networks, that constitute both human and animal brain for the purpose of learning based on the repetition of examples.
 #### Convolutional Neural Networks (CNNs or also called convNets) are the deep learning model for computer vision.
 #### A CNN is a network of neurons that are used primarily to classify images, cluster them or recognize them. It works just like how our human brain works. Human brain has thousands of internconnected neurons. For specific signals, specific neurons send signals to brain. 
 
